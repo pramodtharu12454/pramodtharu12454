@@ -1,12 +1,12 @@
-# 👋 Hi there, I'm [Your Name]!
+# 👋 Hi there, I'm [Pramod Tharu]!
 
-🎯 **MERN Stack Developer** | 🌐 Web Enthusiast | 📍 Based in [Your Location]
+🎯 **MERN Stack Developer** | 🌐pramodtharu.com.np | 📍 Based in [kathmandu]
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a passionate **Full-Stack Developer** specialized in the **MERN stack (MongoDB, Express.js, React, Node.js)**. I enjoy building web applications that are fast, responsive, and scalable. I'm currently pursuing my **B.Sc. CSIT** from **Bhairahawa Multiple Campus, Tribhuvan University**, and I’ve completed MERN Stack training from **Broadway Infosys**.
+I'm a passionate **Full-Stack Developer** specialized in the **MERN stack (MongoDB, Express.js, React, Node.js)**. I enjoy building web applications that are fast, responsive, and scalable. I'm currently pursuing my **BCA from **Asian school of management and Technology, Tribhuvan University**, and I’ve completed MERN Stack training from **Broadway Infosys**.
 
 ---
 
