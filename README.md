@@ -8,7 +8,7 @@
 
 I'm a passionate **Full-Stack Developer** specialized in the **MERN stack (MongoDB, Express.js, React, Node.js)**. I enjoy building web applications that are fast, responsive, and scalable. I'm currently pursuing my **BCA from **Asian school of management and Technology, Tribhuvan University**, and I’ve completed MERN Stack training from **Broadway Infosys**.
 
----
+----
 
 ## 🚀 Tech Stack
 
