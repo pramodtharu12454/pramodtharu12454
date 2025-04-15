@@ -45,8 +45,8 @@ Here are a few projects I've worked on:
 
 ## 📫 Get in Touch
 
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
-- 📧 Email: [youremail@example.com](mailto:youremail@example.com)
+- 🌐 Portfolio: [yourportfolio.com](https://pramodtharu.com.np)
+- 📧 Email: [youremail@example.com](mailto:tharupramod406@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 
 ---
