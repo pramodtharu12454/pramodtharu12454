@@ -16,7 +16,7 @@ I'm a passionate **Full-Stack Developer** specialized in the **MERN stack (Mongo
 - ⚛️ **Frontend**: React.js, Next.js, Redux, Tailwind CSS, Material UI
 - 🛠 **Backend**: Node.js, Express.js
 - 🗄 **Database**: MongoDB, Firebase
-- 🔧 **Tools**: Git, GitHub, VS Code, Postman, Vercel, Netlify
+- 🔧 **Tools**: Git, GitHub, VS Code, Postman, Vercel, Netlify , figma
 - 🧪 **Testing & Others**: Jest, REST APIs, JWT Authentication
 
 ---
